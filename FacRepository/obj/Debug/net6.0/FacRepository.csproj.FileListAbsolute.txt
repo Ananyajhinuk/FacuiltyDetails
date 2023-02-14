@@ -1,0 +1,14 @@
+D:\FacultyDetails\FacRepository\bin\Debug\net6.0\FacRepository.deps.json
+D:\FacultyDetails\FacRepository\bin\Debug\net6.0\FacRepository.runtimeconfig.json
+D:\FacultyDetails\FacRepository\bin\Debug\net6.0\FacRepository.dll
+D:\FacultyDetails\FacRepository\bin\Debug\net6.0\FacRepository.pdb
+D:\FacultyDetails\FacRepository\obj\Debug\net6.0\FacRepository.csproj.AssemblyReference.cache
+D:\FacultyDetails\FacRepository\obj\Debug\net6.0\FacRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\FacultyDetails\FacRepository\obj\Debug\net6.0\FacRepository.AssemblyInfoInputs.cache
+D:\FacultyDetails\FacRepository\obj\Debug\net6.0\FacRepository.AssemblyInfo.cs
+D:\FacultyDetails\FacRepository\obj\Debug\net6.0\FacRepository.csproj.CoreCompileInputs.cache
+D:\FacultyDetails\FacRepository\obj\Debug\net6.0\FacRepository.dll
+D:\FacultyDetails\FacRepository\obj\Debug\net6.0\refint\FacRepository.dll
+D:\FacultyDetails\FacRepository\obj\Debug\net6.0\FacRepository.pdb
+D:\FacultyDetails\FacRepository\obj\Debug\net6.0\FacRepository.genruntimeconfig.cache
+D:\FacultyDetails\FacRepository\obj\Debug\net6.0\ref\FacRepository.dll
